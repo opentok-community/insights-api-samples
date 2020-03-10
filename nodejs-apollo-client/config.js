@@ -1,4 +1,4 @@
-// Replace these values with those generated in your TokBox and Azure Accounts
+// Replace these values with those generated in your TokBox Account
 const OPENTOK_API_KEY = "";
 const OPENTOK_API_SECRET = "";
 
