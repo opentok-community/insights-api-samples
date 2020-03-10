@@ -7,8 +7,4 @@ const apollo = require("./apollo");
 app.use(express.json());
 app.use(apollo);
 
-// app.use("/graphql", function(req, res, next) {
-//   next();
-// });
-
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
