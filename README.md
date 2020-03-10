@@ -1,4 +1,4 @@
-# Advanced Insight Samples
+# OpenTok Insights API Samples
 
 This repo contains sample use case projects using the [OpenTok Insights API].
 
