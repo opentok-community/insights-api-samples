@@ -1,5 +1,7 @@
 # OpenTok Insights API Samples
 
+<img src="https://assets.tokbox.com/img/vonage/Vonage_VideoAPI_black.svg" height="48px" alt="TokBox is now known as Vonage" />
+
 This repo contains sample use case projects using the [OpenTok Insights API].
 
 ## Welcome to OpenTok
