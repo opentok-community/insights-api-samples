@@ -19,8 +19,8 @@ If you're new to OpenTok, you can [sign up for a Tokbox account](https://tokbox.
 We love to hear from you so if you have questions, comments or find a bug in the project, let us know! You can either:
 
 - Open an issue on this repository
-- Tweet at us! We're [@NexmoDev on Twitter](https://twitter.com/NexmoDev)
-- Or join the [Nexmo Community on Slack](https://developer.nexmo.com/community/slack)
+- Tweet at us! We're [@Vonage on Twitter](https://twitter.com/Vonage)
+- Or join us at the [Vonage Developer Community Slack](https://developer.nexmo.com/community/slack)
 
 ## Further Reading
 
