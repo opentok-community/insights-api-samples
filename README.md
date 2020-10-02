@@ -20,7 +20,7 @@ We love to hear from you so if you have questions, comments or find a bug in the
 
 - Open an issue on this repository
 - Tweet at us! We're [@NexmoDev on Twitter](https://twitter.com/NexmoDev)
-- Or [join the Nexmo Community Slack](https://developer.nexmo.com/community/slack)
+- Or join the [Nexmo Community on Slack](https://developer.nexmo.com/community/slack)
 
 ## Further Reading
 
