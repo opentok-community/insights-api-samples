@@ -1,5 +1,7 @@
 # OpenTok Insights API Samples
 
+<img src="https://assets.tokbox.com/img/vonage/Vonage_VideoAPI_black.svg" height="48px" alt="TokBox is now known as Vonage" />
+
 This repo contains sample use case projects using the [OpenTok Insights API].
 
 ## Welcome to OpenTok
@@ -17,8 +19,8 @@ If you're new to OpenTok, you can [sign up for a Tokbox account](https://tokbox.
 We love to hear from you so if you have questions, comments or find a bug in the project, let us know! You can either:
 
 - Open an issue on this repository
-- Tweet at us! We're [@NexmoDev on Twitter](https://twitter.com/NexmoDev)
-- Or [join the Nexmo Community Slack](https://developer.nexmo.com/community/slack)
+- Tweet at us! We're [@VonageDev on Twitter](https://twitter.com/VonageDev)
+- Or join the [Vonage Developer Community Slack](https://developer.nexmo.com/community/slack)
 
 ## Further Reading
 
