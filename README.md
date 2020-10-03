@@ -20,7 +20,7 @@ We love to hear from you so if you have questions, comments or find a bug in the
 
 - Open an issue on this repository
 - Tweet at us! We're [@VonageDev on Twitter](https://twitter.com/VonageDev)
-- Or join us at the [Vonage Developer Community Slack](https://developer.nexmo.com/community/slack)
+- Or join the [Vonage Developer Community Slack](https://developer.nexmo.com/community/slack)
 
 ## Further Reading
 
